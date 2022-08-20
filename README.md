@@ -1,4 +1,4 @@
-# Quora-Question-Pair-Similarity
+# Quora Question Pair Similarity
 Scope of this project is to classify question pairs as duplicate or non-duplicate by using NLP
 techniques for text preprocessing and feature extraction and then applying classification algorithms on
 the extracted features. 
