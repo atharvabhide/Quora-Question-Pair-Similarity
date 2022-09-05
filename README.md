@@ -14,3 +14,5 @@ Models Used-
   <li>Random Forest</li>
   <li>XgBoost</li>
 </ol>
+
+<p>Inspired from the Applied AI course</p>
