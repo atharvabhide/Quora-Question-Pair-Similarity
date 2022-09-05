@@ -15,4 +15,4 @@ Models Used-
   <li>XgBoost</li>
 </ol>
 
-<p>Inspired from the Applied AI course</p>
+<p>Inspired from the Applied AI course.</p>
