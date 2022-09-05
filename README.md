@@ -7,8 +7,10 @@ Then the algorithm which gives the best performance metrics will be chosen.
 
 
 Models Used-
-Logistic Regression
-Linear SVM
-Decision Tree
-Random Forest 
-XgBoost
+<ol>
+  <li>Logistic Regression</li>
+  <li>Linear SVM</li>
+  <li>Decision Tree</li>
+  <li>Random Forest</li>
+  <li>XgBoost</li>
+</ol>
