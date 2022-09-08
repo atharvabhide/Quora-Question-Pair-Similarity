@@ -123,8 +123,8 @@
   Best value of log loss is = <b>0.35(without much hyperparameter tuning)</b> 
 <li>Decision Tree model is used by using RandomizedSearchCV on some parameters <br>
      Confusion matrix is plotted <br>
-  Accuracy = <b>0.80</b>
+  Best value of log loss is = <b>0.41</b>
 <li>Random Forest model is used by using RandomizedSearchCV on some parameters <br>
      Confusion matrix is plotted <br>
-  Accuracy = <b>0.79</b>
+  Best value of log loss is = <b>0.45</b>
 
