@@ -120,7 +120,8 @@
   Best value of log loss is = <b>0.54</b>
 <li>XGBoost model is used<br>
      Confusion matrix is plotted <br>
-  Best value of log loss is = <b>0.35(without much hyperparameter tuning)</b> 
+  Best value of log loss is = <b>0.35(without much hyperparameter tuning)</b>
+  XGBoost v1 log loss is = <b>0.33</b> 
 <li>Decision Tree model is used by using RandomizedSearchCV on some parameters <br>
      Confusion matrix is plotted <br>
   Best value of log loss is = <b>0.41</b>
