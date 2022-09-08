@@ -6,5 +6,13 @@ the extracted features.
 Then the algorithm which gives the best performance metrics will be chosen.
 
 
-Various classification algorithms like Logistic Regression, SVM (Support Vector Machine), Random
-Forest, and XGBoost will be used.
+Models Used-
+<ol>
+  <li>Logistic Regression</li>
+  <li>Linear SVM</li>
+  <li>Decision Tree</li>
+  <li>Random Forest</li>
+  <li>XgBoost</li>
+</ol>
+
+<p>Inspired from the Applied AI course.</p>
