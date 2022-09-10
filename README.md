@@ -1,6 +1,8 @@
 # Quora Question Pair Similarity
 
+<p align="center">
 <img src="https://cdn.vox-cdn.com/thumbor/XZOiMSnjfLxakH367c7Og-Bb6v4=/7x0:633x417/1200x800/filters:focal(7x0:633x417)/cdn.vox-cdn.com/assets/1296846/quoralogo.jpg" width=500px height=300px>
+</p>
 
 Scope of this project is to classify question pairs as duplicate or non-duplicate by using NLP
 techniques for text preprocessing and feature extraction and then applying classification algorithms on
