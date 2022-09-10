@@ -113,11 +113,11 @@
 <li>Logistic Regression model is used and the hyperparameter chosen for tuning is alpha 
      l2 regularization is used and calibrated classifier cross validation is used. <br>
      Confusion matrix is plotted <br>
-  Best value of log loss is = <b>0.44</b>
+  Best value of log loss is = <b>0.43</b>
 <li>SVM classifier model is used and the hyperparameter chosen for tuning is alpha
      l1 regularization is used and calibrated classifier cross validation is used. <br>
      Confusion matrix is plotted <br>
-  Best value of log loss is = <b>0.54</b>
+  Best value of log loss is = <b>0.44</b>
 <li>XGBoost model is used<br>
      Confusion matrix is plotted <br>
   Best value of log loss is = <b>0.36(without much hyperparameter tuning)</b> <br>
@@ -127,5 +127,5 @@
   Best value of log loss is = <b>0.41</b>
 <li>Random Forest model is used by using RandomizedSearchCV on some parameters <br>
      Confusion matrix is plotted <br>
-  Best value of log loss is = <b>0.45</b>
+  Best value of log loss is = <b>0.43</b>
 
