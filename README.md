@@ -21,3 +21,5 @@ Models Used-
 </ol>
 
 <p>Inspired from the Applied AI course.</p>
+
+<p>Dataset used - <a href="https://www.kaggle.com/competitions/quora-question-pairs/data"></p>
