@@ -89,7 +89,7 @@
 <li>Used TFIDF for vectorization and made a dictionary (key:word, value:tf-idf score)
 <li>Used TFIDF word2vec by using GLOVE model instead of Google's Word2Vec model
 <li>This is done separately for all question1's and then all the question2's
-<li>Text vectors made have 384 dimensions (both question1 and question2 vectors)
+<li>Text vectors made have 96 dimensions (both question1 and question2 vectors)
 
 
 <h3>FINAL DATAFRAME PREPARATION</h3>
@@ -98,7 +98,7 @@
 <li>Dataframe which has the NLP features
 <li>Dataframe which has the vectors for all question1's
 <li>Dataframe which has the vectors for all question2's
-<li>The final DataFrame has 794 features.
+<li>The final DataFrame has 218 features.
 
 
 
